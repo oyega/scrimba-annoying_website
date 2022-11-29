@@ -15,6 +15,7 @@ h1{
     font-size: 48px;
     line-height: 60px;
     font-weight: 900;
+    text-align: center;
 }
 
 h2{
@@ -25,12 +26,13 @@ h3{
     font-size: 20px;
     font-weight: 700; 
     line-height: 30px;
+    text-align: center;
 }
 
 p{
     font-size: 18px;
     line-height: 28px;
-
+    text-align: center;
 }
 
 ul{
@@ -60,7 +62,6 @@ img{
 main{
     max-width: 400px;
     margin: 0 auto;
-    text-align: center;
 }
 
 /* modal */
